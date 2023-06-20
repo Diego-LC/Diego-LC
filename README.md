@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋
-- 🌱 I’m currently learning web programmer Full Stack Python Trinee with Coding Dojo and Talento Digital
+- 🌱 I’m currently studing civil engieener in computer cience
 <!--
 **Diego-LC/Diego-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
