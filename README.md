@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋
-- 🌱 I’m currently studing civil engieener in computer cience
+- 🌱 I’m currently studing civil engieener in computer cience in La Frontera Temuco University
 <!--
 **Diego-LC/Diego-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
